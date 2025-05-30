@@ -8,16 +8,6 @@ With 15+ years in the geospatial domain, I create tools that turn spatial data i
 
 ---
 
-## Featured Projects
-
-###  [QuakeGlobe](https://quakeglobe.onrender.com)
-Interactive 3D earthquake visualization using real-time seismic data with timeline controls and synchronized animations.
-
-**Tech:** CesiumJS • React  
- [Live Demo](https://quakeglobe.onrender.com) • [GitHub](https://github.com/GeoBradDev/QuakeGlobe)
-
----
-
 ##  Technical Skills
 
 **Frontend:** React • JavaScript • Leaflet • CesiumJS • React Native  
@@ -28,23 +18,12 @@ Interactive 3D earthquake visualization using real-time seismic data with timeli
 
 ---
 
-##  Professional Background
-
-**Current Role:** Full-Stack Software Developer at **National Geospatial-Intelligence Agency** (2010-Present)
-- Evolved from imagery and geospatial analyst to full-stack developer delivering mission-critical applications
-- Built secure web platforms for aeronautical safety using React, FastAPI, and PostGIS
-- Deployed to U.S. embassies and military commands worldwide
-
-**Founded GeoBrad.dev (2024):** Pro bono geospatial consulting for nonprofits, researchers, and community organizations tackling environmental and social challenges.
-
----
-
 ##  What I Bring
 
-** Full-Stack WebGIS Expertise** - Modern frameworks meet geospatial solutions  
-** Mission-Driven Development** - Pro bono work with nonprofits and civic organizations  
-** Government-Grade Security** - Background supporting DoD, NGA, and State Department  
-** Proven Impact** - 15+ years of high-stakes, mission-critical geospatial domain knowledge
+**Full-Stack WebGIS Expertise** - Modern frameworks meet geospatial solutions  
+**Mission-Driven Development** - Pro bono work with nonprofits and civic organizations  
+**Government Experience** - Background supporting DoD, NGA, and State Department  
+**Proven Impact** - 15+ years of high-stakes, mission-critical geospatial domain knowledge
 
 ---
 
