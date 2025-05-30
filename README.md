@@ -1,23 +1,73 @@
-# 👋 Brad Stricherz | GeoBrad.dev
-Full-stack geospatial engineer building impactful, map-driven applications for government, civic tech, and sustainability. With 15+ years in secure, high-performance environments (including TS/SCI cleared GEOINT work), I create tools that turn spatial data into real-world action.
-🔗 [Portfolio](https://GeoBrad.dev) | 📄 [Resume](https://GeoBrad.dev/resume.pdf) | 💼 [LinkedIn](https://linkedin.com/in/geobrad)
+# Hi, I'm Brad Stricherz
+
+**Full-Stack Geospatial Software Developer** building impactful, map-driven applications for government, civic tech, and sustainability initiatives.
+
+With 15+ years in the geospatial domain, I create tools that turn spatial data into real-world action through **GeoBrad.dev** - my pro-bono consultancy focused on geospatial solutions for social impact.
+
+ [Portfolio](https://GeoBrad.dev) •  [Resume](https://GeoBrad.dev/resume) •  [LinkedIn](https://www.linkedin.com/in/brad-stricherz-944999349/) •  Brad@GeoBrad.dev
+
 ---
-## 🗺️ Featured Projects
-### 🌍 [QuakeGlobe](https://quakeglobe.onrender.com)Interactive 3D earthquake visualization using real-time seismic data.
-- 🛠️ CesiumJS · React · Django Ninja · PostGIS- 🔁 Timeline + Animation synced to seismic data- 🌐 [Live Demo](https://quakeglobe.onrender.com) | [GitHub](https://github.com/GeoBradDev/QuakeGlobe)
-![QuakeGlobe Preview](https://raw.githubusercontent.com/GeoBradDev/QuakeGlobe/main/screenshots/quakeglobe-demo.gif)
+
+## Featured Projects
+
+###  [QuakeGlobe](https://quakeglobe.onrender.com)
+Interactive 3D earthquake visualization using real-time seismic data with timeline controls and synchronized animations.
+
+**Tech:** CesiumJS • React  
+ [Live Demo](https://quakeglobe.onrender.com) • [GitHub](https://github.com/GeoBradDev/QuakeGlobe)
+
 ---
-### ♻️ [Adopt-A-Zone](https://adoptazone.onrender.com)Civic mapping platform for organizing community cleanups and environmental events.
-- 🛠️ React · Leaflet · Zustand · Django · Render- 🔒 Auth with Django Allauth (Headless API)- 🗃️ Automated area expiration logic + cron jobs- 🌐 [Live Demo](https://adoptazone.onrender.com) | [GitHub](https://github.com/GeoBradDev/AdoptAZone)
-![Adopt-A-Zone Preview](https://raw.githubusercontent.com/GeoBradDev/AdoptAZone/main/screenshots/map-view.png)
+
+##  Technical Skills
+
+**Frontend:** React • JavaScript • Leaflet • CesiumJS • React Native  
+**Backend:** Django • FastAPI • Django Ninja • Python  
+**Spatial:** PostGIS • GeoDjango • GeoServer • GDAL/OGR  
+**DevOps:** Docker • Kubernetes • GitLab CI/CD • PostgreSQL  
+**Specialties:** WebGIS • GEOINT • Spatial Analysis • Geospatial Data
+
 ---
-## 🧰 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)![Django](https://img.shields.io/badge/-Django-092E20?logo=django)![PostGIS](https://img.shields.io/badge/-PostGIS-336791?logo=postgresql)![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet)![CesiumJS](https://img.shields.io/badge/-CesiumJS-0084FF?logo=cesium)![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)![Kubernetes](https://img.shields.io/badge/-K3s-F5A623?logo=kubernetes)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+
+##  Professional Background
+
+**Current Role:** Full-Stack Software Developer at **National Geospatial-Intelligence Agency** (2010-Present)
+- Evolved from imagery and geospatial analyst to full-stack developer delivering mission-critical applications
+- Built secure web platforms for aeronautical safety using React, FastAPI, and PostGIS
+- Deployed to U.S. embassies and military commands worldwide
+
+**Founded GeoBrad.dev (2024):** Pro bono geospatial consulting for nonprofits, researchers, and community organizations tackling environmental and social challenges.
+
 ---
-## 📊 GitHub Stats
-![Brad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeoBradDev&show_icons=true&theme=default)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoBradDev&layout=compact)[![GitHub Streak](https://streak-stats.demolab.com/?user=GeoBradDev)](https://git.io/streak-stats)
+
+##  GitHub Activity
+
+<div align="center">
+
+![Brad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeoBradDev&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoBradDev&layout=compact&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeoBradDev&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
-## 🧭 Why Hire Me?
-- 🌐 Proven expertise in full-stack WebGIS and secure app development- 🤝 Pro bono projects with nonprofits and civic groups (Seaside Sustainability, Map the Vote)- 🛰️ TS/SCI-cleared background supporting DoD, NGA, and State Department- 🎯 Focused on mission impact, technical clarity, and long-term maintainability
+
+##  What I Bring
+
+** Full-Stack WebGIS Expertise** - Modern frameworks meet geospatial solutions  
+** Mission-Driven Development** - Pro bono work with nonprofits and civic organizations  
+** Government-Grade Security** - Background supporting DoD, NGA, and State Department  
+** Proven Impact** - 15+ years of high-stakes, mission-critical geospatial domain knowledge
+
 ---
-📫 Feel free to reach out via [GeoBrad.dev](https://GeoBrad.dev) or connect on [LinkedIn](https://linkedin.com/in/geobrad). Let's build something impactful.
+
+##  Let's Build Something Impactful
+
+I'm passionate about leveraging geospatial technology for positive change. Whether you're a nonprofit tracking environmental impact, a researcher analyzing urban challenges, or a civic group improving community engagement - let's explore how we can turn complex spatial data into actionable solutions.
+
+**Get in touch:** [GeoBrad.dev](https://GeoBrad.dev) • [LinkedIn](https://www.linkedin.com/in/brad-stricherz-944999349/) • Brad@GeoBrad.dev
+
+---
+
+*Building technology that matters, one map at a time* 
