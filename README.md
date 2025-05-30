@@ -39,20 +39,6 @@ Interactive 3D earthquake visualization using real-time seismic data with timeli
 
 ---
 
-##  GitHub Activity
-
-<div align="center">
-
-![Brad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeoBradDev&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoBradDev&layout=compact&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GeoBradDev&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ##  What I Bring
 
 ** Full-Stack WebGIS Expertise** - Modern frameworks meet geospatial solutions  
