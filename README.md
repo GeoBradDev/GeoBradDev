@@ -21,8 +21,7 @@
 ## What I Build
 
 **Full-Stack WebGIS Applications** - Modern frameworks with geospatial solutions  
-**Mission-Driven Development** - Pro bono work with nonprofits and civic organizations  
-**Government Systems** - Background supporting DoD, NGA, and the State Department  
+**Mission-Driven Development** - Pro bono work with nonprofits and civic organizations   
 **Spatial Data Solutions** - 15+ years of mission-critical geospatial domain knowledge
 
 ---
