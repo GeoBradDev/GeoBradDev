@@ -4,7 +4,7 @@
 
 15+ years in the geospatial domain, progressing from analyst to full-stack developer. Currently building modern WebGIS platforms with React, Django, and PostGIS through **GeoBrad.dev**.
 
-[Portfolio](https://GeoBrad.dev) • [Resume](https://GeoBrad.dev/resume) • [LinkedIn](https://www.linkedin.com/in/brad-stricherz-944999349/) • Brad@GeoBrad.dev
+[Portfolio](https://GeoBrad.dev) • [LinkedIn](https://www.linkedin.com/in/brad-stricherz-944999349/) • Brad@GeoBrad.dev
 
 ---
 
